@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { MenuController } from '@ionic/angular';
 
 @Component({
   selector: 'app-tab2',
@@ -6,7 +7,15 @@ import { Component } from '@angular/core';
   styleUrls: ['tab2.page.scss']
 })
 export class Tab2Page {
+  panelEnabled = true;
+  constructor(private menuController: MenuController) {}
 
-  constructor() {}
-
+  ionViewWillEnter() {
+    this.panelEnabled = true;
+    this.menuController.enable(true, 'second');
+  }
+  
+  ionViewWillLeave() {
+    this.panelEnabled = false;
+  }
 }
