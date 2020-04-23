@@ -1,8 +1,8 @@
-# Ionic Multiple Menus
+# :zap: Ionic Multiple Menus
 
 App that displays different menus for tabs 1 and 2.
 
-## Table of contents
+## :page_facing_up: Table of contents
 
 * [General info](#general-info)
 * [Screenshots](#screenshots)
@@ -12,28 +12,27 @@ App that displays different menus for tabs 1 and 2.
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
-
-## General info
+  
+## :books: General info
 
 * Tab1 and Tab2 both contain ion-menus and a side-bar with routing to 2 pages.
 
-## Screenshots
+## :camera: Screenshots
 
 ![Ionic page](./img/menu1.png)
 ![Ionic page](./img/menu2.png)
 
-
-## Technologies
+## :signal_strength: Technologies
 
 * [Ionic v5.0.0](https://ionicframework.com/)
 * [Angular v8.1.2](https://angular.io/)
 * [Ionic/angular v4.7.1](https://www.npmjs.com/package/@ionic/angular)
 
-## Setup
+## :floppy_disk: Setup
 
 * To start the server on _localhost://8100_ type: 'ionic serve'
 
-## Code Examples
+## :computer: Code Examples
 
 * Tab1 page code to show first (of two) menus using the [Ionic MenuController provider](https://ionicframework.com/docs/v3/api/components/app/MenuController/).
 
@@ -52,20 +51,20 @@ export class Tab1Page {
   }
 ```
 
-## Features
+## :cool: Features
 
-* Uses a `panelEnabled` boolean value to control menu disabling. 
+* Uses a `panelEnabled` boolean value to control menu disabling.
 
-## Status & To-do list
+## :clipboard: Status & To-do list
 
 * Status: Working
 
 * To-do: nothing. Could use this multiple menu in other Ionic apps.
 
-## Inspiration
+## :clap: Inspiration
 
 * [Simon Grimm, Ionic Academy Tutorial: Multiple Side Menus With Ionic Tab Bar](https://www.youtube.com/watch?v=4VYC725VMNA)
 
-## Contact
+## :envelope: Contact
 
-Repo created by [ABateman](https://www.andrewbateman.org) - feel free to contact me!
+* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
