@@ -24,9 +24,9 @@ App that displays different menus for tabs 1 and 2.
 
 ## :signal_strength: Technologies
 
-* [Ionic v5.0.0](https://ionicframework.com/)
-* [Angular v8.1.2](https://angular.io/)
-* [Ionic/angular v4.7.1](https://www.npmjs.com/package/@ionic/angular)
+* [Ionic v5](https://ionicframework.com/)
+* [Angular v9](https://angular.io/)
+* [Ionic/angular v5](https://www.npmjs.com/package/@ionic/angular)
 
 ## :floppy_disk: Setup
 
