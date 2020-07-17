@@ -1,21 +1,21 @@
 # :zap: Ionic Multiple Menus
 
-App that displays different menus for tabs 1 and 2.
+* App that displays different menus for tabs 1 and 2.
 
 ## :page_facing_up: Table of contents
 
 * [:zap: Ionic Multiple Menus](#zap-ionic-multiple-menus)
-  * [:page_facing_up: Table of contents](#pagefacingup-table-of-contents)
+  * [:page_facing_up: Table of contents](#page_facing_up-table-of-contents)
   * [:books: General info](#books-general-info)
   * [:camera: Screenshots](#camera-screenshots)
-  * [:signal_strength: Technologies](#signalstrength-technologies)
-  * [:floppy_disk: Setup](#floppydisk-setup)
+  * [:signal_strength: Technologies](#signal_strength-technologies)
+  * [:floppy_disk: Setup](#floppy_disk-setup)
   * [:computer: Code Examples](#computer-code-examples)
   * [:cool: Features](#cool-features)
   * [:clipboard: Status & To-do list](#clipboard-status--to-do-list)
   * [:clap: Inspiration](#clap-inspiration)
   * [:envelope: Contact](#envelope-contact)
-  
+
 ## :books: General info
 
 * Tab1 and Tab2 both contain ion-menus and a side-bar with routing to 2 pages.
@@ -28,7 +28,7 @@ App that displays different menus for tabs 1 and 2.
 ## :signal_strength: Technologies
 
 * [Ionic v5](https://ionicframework.com/)
-* [Angular v9](https://angular.io/)
+* [Angular v10](https://angular.io/)
 * [Ionic/angular v5](https://www.npmjs.com/package/@ionic/angular)
 
 ## :floppy_disk: Setup
@@ -61,8 +61,7 @@ export class Tab1Page {
 ## :clipboard: Status & To-do list
 
 * Status: Working
-
-* To-do: nothing. Could use this multiple menu in other Ionic apps.
+* To-do: nothing.
 
 ## :clap: Inspiration
 
