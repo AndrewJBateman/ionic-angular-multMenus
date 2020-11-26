@@ -1,6 +1,7 @@
 # :zap: Ionic Multiple Menus
 
 * App that displays different menus for tabs 1 and 2.
+* Tutorial code from [Simon Grimm of the Ionic Academy](https://www.youtube.com/user/saimon1924) see [:clap: Inspiration](#clap-inspiration) below
 
 ## :page_facing_up: Table of contents
 
@@ -28,11 +29,12 @@
 ## :signal_strength: Technologies
 
 * [Ionic v5](https://ionicframework.com/)
-* [Angular v10](https://angular.io/)
+* [Angular v11](https://angular.io/)
 * [Ionic/angular v5](https://www.npmjs.com/package/@ionic/angular)
 
 ## :floppy_disk: Setup
 
+* Run `npm i` to install dependencies
 * To start the server on _localhost://8100_ type: 'ionic serve'
 
 ## :computer: Code Examples
@@ -61,7 +63,7 @@ export class Tab1Page {
 ## :clipboard: Status & To-do list
 
 * Status: Working
-* To-do: nothing.
+* To-do: Nothing.
 
 ## :clap: Inspiration
 
