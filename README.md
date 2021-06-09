@@ -4,10 +4,10 @@
 * Tutorial code from [Simon Grimm of the Ionic Academy](https://www.youtube.com/user/saimon1924) see [:clap: Inspiration](#clap-inspiration) below
 * **Note:** to open web links in a new window use: _ctrl+click on link_
 
-![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/ionic-angular-multiMenus?style=plastic)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/ionic-angular-multiMenus?style=plastic)
-![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/ionic-angular-multiMenus?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/ionic-angular-multiMenus?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/ionic-angular-multMenus?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/ionic-angular-multMenus?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/ionic-angular-multMenus?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/ionic-angular-multMenus?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -69,7 +69,7 @@ export class Tab1Page {
 
 ## :clipboard: Status & To-do list
 
-* Status: Working. Updated june 2021
+* Status: Working. Updated june 2021.
 * To-do: Nothing.
 
 ## :clap: Inspiration
