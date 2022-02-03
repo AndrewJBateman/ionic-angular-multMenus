@@ -1,3 +1,4 @@
+
 # :zap: Ionic Multiple Menus
 
 * App that displays different menus for tabs 1 and 2.
@@ -35,9 +36,9 @@
 
 ## :signal_strength: Technologies
 
-* [Ionic v5](https://ionicframework.com/)
-* [Angular v12](https://angular.io/)
-* [Ionic/angular v5](https://www.npmjs.com/package/@ionic/angular)
+* [Ionic v6](https://ionicframework.com/)
+* [Angular v13](https://angular.io/)
+* [Ionic/angular v6](https://www.npmjs.com/package/@ionic/angular)
 
 ## :floppy_disk: Setup
 
@@ -69,7 +70,7 @@ export class Tab1Page {
 
 ## :clipboard: Status & To-do list
 
-* Status: Working. Updated june 2021.
+* Status: Working.
 * To-do: Nothing.
 
 ## :clap: Inspiration
