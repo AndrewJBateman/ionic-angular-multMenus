@@ -1,4 +1,3 @@
-
 # :zap: Ionic Multiple Menus
 
 * App that displays different menus for tabs 1 and 2.
@@ -37,7 +36,7 @@
 ## :signal_strength: Technologies
 
 * [Ionic v6](https://ionicframework.com/)
-* [Angular v13](https://angular.io/)
+* [Angular v14](https://angular.io/)
 * [Ionic/angular v6](https://www.npmjs.com/package/@ionic/angular)
 
 ## :floppy_disk: Setup
